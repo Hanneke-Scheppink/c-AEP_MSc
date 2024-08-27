@@ -4,3 +4,7 @@ The versions of several packages used:
 
 - pyntbci: 1.2.0
 - mne: 1.6.1
+
+
+Please note that the 'choose_modulator.m', 'generate_stimuli.m', and 'modulate_carrier.m' are made with/by dr. Jordy Thielen, and are reposted on this repository with his permission. 
+
